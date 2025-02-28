@@ -1,0 +1,11 @@
+Title	diagnosis	tissue	age	Sex	Stage	os_mo	os_event
+1	BWH225	 Squamous Cell Carcinoma of Lung	 lung	80	 Female	 T1b	25.2164383561644	1
+2	CAD_NA535PT_RNA_2119A_H5	 Squamous Cell Carcinoma of Lung	 lung	74	 Female	 T2a	51.1232876712329	1
+3	UCD049	 Squamous Cell Carcinoma of Lung	 lung	76	 Male	 T2b	36.3287671232877	1
+4	CAD_NA396PT_RNA_2116A_E1_RR1	 Squamous Cell Carcinoma of Lung	 lung	57	 Female	 T3	10.7835616438356	1
+5	BWH222	 Squamous Cell Carcinoma of Lung	 lung	81	 Male	 T1b	32.0219178082192	1
+6	CAD_NA441PT_RNA_2116A_E3	 Squamous Cell Carcinoma of Lung	 lung	66	 Male	 T2a	0.164383561643836	0
+7	CAD_NA715PT_RNA_2144A_E5	 Squamous Cell Carcinoma of Lung	 lung	70	 Female	 T1b	68.5808219178082	0
+8	CAD_NA718PT_RNA_2151A_B2	 Squamous Cell Carcinoma of Lung	 lung	66	 Male	 T2a	34.5205479452055	0
+9	CAD_NA542PT_RNA_2119A_D8	 Squamous Cell Carcinoma of Lung	 lung	70	 Male	 T2a	63.1890410958904	0
+10	PMH524	 Squamous Cell Carcinoma of Lung	 lung	79	 Male	 T2a	53.4575342465753	1
